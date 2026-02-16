@@ -1,10 +1,10 @@
 // or can using type but with = sign
 export interface Product {
-    id :number;
+    id: number;
     name: string;
     description: string;
     price: number;
-    prictureUrl: string;
+    pictureUrl: string;
     type: string;
     brand: string;
     quantityInStock: number;
